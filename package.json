@@ -1,6 +1,6 @@
 {
   "homepage": "https://amustafaozkayam.github.io/tour-places",
-  "name": "tour",
+  "name": "tour-places",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
